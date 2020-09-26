@@ -1,0 +1,61 @@
+[
+    {
+      "Signo": "Aries",
+      "Qualidades": "Coragem, energia, dinamismo e competitividade", 
+      "Defeitos": "Impulsividade, egoísmo e pressa"
+    },
+  
+    {
+      "Signo": "Touro",
+      "Qualidades": "Determinação, estabilidade, perseverança, sensualidade e praticidade", 
+      "Defeitos": "Teimosia, preguiça, possessividade e materialismo"
+    },
+  
+    {
+      "Signo": "Gemeos",
+      "Qualidades": "Inteligência, sociabilidade, comunicatividade e curiosidade para aprender", 
+      "Defeitos": "Dispersão, fala em excesso e superficialidade"
+    },
+    
+    {
+      "Signo": "Câncer",
+      "Qualidades": "Amoroso, protetor, simpático e recptivo", 
+      "Defeitos": "instabilidade emocional, apego ao passado e dependência de outras pessoas"
+    },
+  
+    {
+      "Signo": "Leão",
+      "Qualidades": "Entusiasmo, confiança, generosidade e criatividade", 
+      "Defeitos": "Arrogância, egocentrismo e preguiça"
+    },
+  
+    {
+      "Signo": "Virgem",
+      "Qualidades": "Praticidade, dedicação, organização e observadores", 
+      "Defeitos": "Críticos demais"
+    },
+  
+    {
+      "Signo": "Libra",
+      "Qualidades": "Diplomático, sociabilidade, apreciação por arte e romance", 
+      "Defeitos": "Falta de decisão prática"
+    },
+  
+    {
+      "Signo": "Escorpião",
+      "Qualidades": "Transformador, profundo, intuitivo, enigmático e curador", 
+      "Defeitos": "Possessivo e vingativo"
+    },
+  
+    {
+      "Signo": "Sagitário",
+      "Qualidades": "Expansão, otimismo, sorte, aventura e visão abrangente dos fato", 
+      "Defeitos": "Excessivos, grosseiros e irresponsáveis, "
+    },
+  
+    {
+      "Signo": "Capricórnio",
+      "Qualidades": "Responsabilidade, foco, organização, ambição e trabalhadores", 
+      "Defeitos": "Rigidez, pessimismo e avareza"
+    }
+  ]
